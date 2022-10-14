@@ -1,0 +1,8 @@
+C:\Users\micha\source\repos\2022_10_13_Call_by_Value\2022_10_13_Call_by_Value\bin\Debug\2022_10_13_Call_by_Value.exe.config
+C:\Users\micha\source\repos\2022_10_13_Call_by_Value\2022_10_13_Call_by_Value\bin\Debug\2022_10_13_Call_by_Value.exe
+C:\Users\micha\source\repos\2022_10_13_Call_by_Value\2022_10_13_Call_by_Value\bin\Debug\2022_10_13_Call_by_Value.pdb
+C:\Users\micha\source\repos\2022_10_13_Call_by_Value\2022_10_13_Call_by_Value\obj\Debug\2022_10_13_Call_by_Value.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\2022_10_13_Call_by_Value\2022_10_13_Call_by_Value\obj\Debug\2022_10_13_Call_by_Value.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\2022_10_13_Call_by_Value\2022_10_13_Call_by_Value\obj\Debug\2022_10_13_Call_by_Value.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\2022_10_13_Call_by_Value\2022_10_13_Call_by_Value\obj\Debug\2022_10_13_Call_by_Value.exe
+C:\Users\micha\source\repos\2022_10_13_Call_by_Value\2022_10_13_Call_by_Value\obj\Debug\2022_10_13_Call_by_Value.pdb
